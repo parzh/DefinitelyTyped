@@ -4,7 +4,7 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
 declare const octonode: {
-    // auth: import('./auth');
+    auth: import('./auth');
     // client: import('./client');
     // gist: import('./gist');
     // issue: import('./issue');
